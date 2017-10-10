@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.container_r_top{ width:880px; height:260px; font-family:"微软雅黑"}
+.contact_information{ float:left}
+.contact_information h4{ font-size:14px; font-weight:normal; height:50px; line-height:50px; text-align:center; margin-bottom:20px}
+.contact_information p{ height:30px; line-height:30px; font-size:14px}
+.container_r_top form{ float:right; font-size:14px; margin-top:15px}
+.container_r_top form .txt{ width:230px; height:25px; line-height:25px; margin:10px 0; background:#dedede; border:1px solid #999}
+.container_r_top form textarea{width:230px; height:70px; background:#dedede; border:1px solid #999}
+/*百度地图*/
+#dituContent{width:880px;height:300px;border:#ccc solid 1px; margin-top:40px}
+.iw_poi_title {color:#CC5522;font-size:14px;font-weight:bold;overflow:hidden;padding-right:13px;white-space:nowrap}
+.iw_poi_content {font:12px arial,sans-serif;overflow:visible;padding-top:4px;white-space:-moz-pre-wrap;word-wrap:break-word}

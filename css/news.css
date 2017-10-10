@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+.container_r ul{ margin:40px 0}
+.container_r ul li{ padding-left:40px; height:40px; line-height:40px; font-size:12px; background:url(../images/icon.gif) no-repeat 20px -40px; font-family:"宋体"}
+.container_r ul li a{ float:left; color:#000;}
+.container_r ul li span{ float:right}
+.container_r ul li:hover a{ color:#f00;}
+.container_r ul li:hover span{ color:#f00;}
+.container_r .subnav{ width:880px; height:30px; line-height:30px; text-align:center; font-size:14px; font-family:"微软雅黑"}
+.container_r .subnav>a{ color:#000; margin:0 10px;}
+.container_r .subnav>span>a{color:#000; display:inline-block; width:30px; height:15px; line-height:15px}
+.container_r .subnav span a.show{ background:#b90000; color:#fff;}
+.container_r .subnav span a:hover{background:#b90000; color:#fff;}
+

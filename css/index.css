@@ -1,0 +1,36 @@
+.index_company_profile{ width:1200px; height:450px;margin:0 auto}
+.title{ width:100%; height:60px; padding-left:25px; margin:0 auto;text-align:center; background:url(../images/icon.gif) no-repeat 540px 10px; color:#666; border-bottom:2px solid #999; margin-bottom:45px; font-size:18px; font-family:"微软雅黑"}
+.title a{ color:#666}
+.title a span{ display:block;font-size:16px;}
+.index_company_profile_bottom{ width:1200px; height:280px}
+.index_company_profile_bottom img{ float:left; margin-right:55px}
+.index_company_profile_bottom p{ text-indent:24px; font-size:12px; line-height:24px; font-family:"宋体"}
+/*首页产品中心*/
+.index_product_box{ width:100%;height:400px; background:#fcf4ef; margin-bottom:40px;}
+.index_product{width:1200px; height:268px; margin:0 auto}
+#slider{ width:1200px; height:268px; margin-top:40px; position:relative;}
+#slider_box{ width:1128px; height:268px; margin:0 auto; overflow:hidden}
+#slider_box ul{height:264px}
+#slider_box ul li{ float:left; width:221px; height:264px; text-align:center;border:2px solid #fcf4ef; font-size:14px; font-family:"微软雅黑"}
+#slider_box ul li a span{ display:block}
+#slider_box ul li:hover{border:2px solid #ca2450}
+#slider_box ul li:hover a span{ color:#f00;}
+#slider_box ul li a span{ color:#666; height:40px; line-height:40px}
+#next{ position:absolute; width:36px; height:70px;right:0;top:95px; background:url(../images/next.gif) no-repeat}
+#prev{position:absolute; width:36px; height:70px;left:0;top:95px; background:url(../images/prev.gif) no-repeat}
+/*首页新闻中心*/
+.index_news{ width:1200px; height:360px; margin-top:60px; margin:0 auto;}
+.index_news_main{ width:1200px; height:auto; overflow:hidden;zoom:1;}
+.index_news_main img{ float:left; margin-right:90px}
+.index_news_main ul{ width:700px; height:auto; float:left}
+.index_news_main ul li{ font-size:12px; line-height:25px; height:25px; padding-left:20px; background:url(../images/icon.gif) no-repeat 0 -48px; font-family:"宋体"}
+.index_news_main ul li a{ color:#000;}
+.index_news_main ul li a b{ font-weight:normal; float:left;}
+.index_news_main ul li a span{ float:right}
+.index_news_main ul li a:hover{ color:#f00;}
+/*首页合作伙伴*/
+.index_collaborate_box{ width:100%; height:auto;overflow:hidden; zoom:1; background:#fcf4ef;}
+.index_collaborate{ width:1200px; height:auto; overflow:hidden; zoom:1; margin:30px auto}
+.index_collaborate ul{ width:1200px; height:220px;overflow:hidden; margin-top:50px;}
+.index_collaborate ul li{ float:left; margin-right:19px; margin-bottom:20px}
+

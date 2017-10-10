@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+.container_r_main{ width:880px; height:228px; margin-top:40px; margin-bottom:20px; font-family:"宋体"}
+.container_r_main img{ float:left; margin-right:20px}
+.container_r_main p{ font-size:12px; text-indent:24px; letter-spacing:2px; line-height:23px}
+.container_r p{font-size:12px; text-indent:24px; letter-spacing:2px; line-height:23px;font-family:"宋体"}
